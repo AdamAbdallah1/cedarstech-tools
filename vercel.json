@@ -1,5 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/tools/(.*)", "destination": "/tools/index.html" }
+  "routes": [
+    { "src": "/tools/(.*)", "dest": "/tools/index.html" }
   ]
 }
